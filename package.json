@@ -1,0 +1,16 @@
+{
+	"name": "tadashi",
+	"version": "1.0.0",
+	"description": "Check your work the right way",
+	"main": "index.js",
+	"dependencies": {
+		"typescript": "^3.6.4"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"test": "echo \"Did you know that Tadashi comes from the Japanese word, correct?\"",
+		"start": "tsc index.ts"
+	},
+	"author": "",
+	"license": "ISC"
+}
